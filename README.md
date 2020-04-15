@@ -1,2 +1,2 @@
-# MoscowMetro.githab.io
+# MoscowMetro
 Platon's first site
